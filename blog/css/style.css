@@ -238,7 +238,7 @@ article {
     
 }
 
- /* Button */
+ /* Buttion */
 
 button {
     margin-top:1rem;
@@ -247,13 +247,13 @@ button {
     font-size:1.5rem;
     text-transform:uppercase;
     background-color:#ea75e2;
-    box-shadow:.187rem .187rem .187rem rgb(0, 0, 0);
+    box-shadow:.187rem .187rem .187rem rgb(238, 157, 207);
     border:none;
     border-radius:.625rem;
 }
 
 button a {
-    color:rgb(0, 0, 0);
+    color:rgb(195, 114, 180);
 }
 
 /* Subsection */
