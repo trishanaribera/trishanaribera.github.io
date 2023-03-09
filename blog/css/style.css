@@ -187,7 +187,7 @@ nav a {
     display:inline-block;
     font-size: 2rem;
     padding:2rem 6rem 2rem 0;
-    color:#27476E;
+    color:#000000;
     font-weight:bold;
 
 }
@@ -247,13 +247,13 @@ button {
     font-size:1.5rem;
     text-transform:uppercase;
     background-color:#ea75e2;
-    box-shadow:.187rem .187rem .187rem rgb(238, 157, 207);
+    box-shadow:.187rem .187rem .187rem rgb(0, 0, 0);
     border:none;
     border-radius:.625rem;
 }
 
 button a {
-    color:rgb(195, 114, 180);
+    color:rgb(0, 0, 0);
 }
 
 /* Subsection */
